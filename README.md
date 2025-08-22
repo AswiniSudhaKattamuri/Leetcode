@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0394-decode-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0058-length-of-last-word) |
+| [0394-decode-string](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0394-decode-string) |
 ## Trie
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
