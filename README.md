@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [3790-fruits-into-baskets-ii](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0069-sqrtx) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0264-ugly-number-ii) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0088-merge-sorted-array) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## String
 |  |
 | ------- |
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Greedy
 |  |
 | ------- |
