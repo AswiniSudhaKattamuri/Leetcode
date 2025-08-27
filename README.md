@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0231-power-of-two) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0058-length-of-last-word) |
 | [0394-decode-string](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0394-decode-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Trie
 |  |
 | ------- |
