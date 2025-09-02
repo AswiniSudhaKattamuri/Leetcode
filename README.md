@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1917-maximum-average-pass-ratio](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0069-sqrtx) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1917-maximum-average-pass-ratio](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Bit Manipulation
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## String
 |  |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Greedy
