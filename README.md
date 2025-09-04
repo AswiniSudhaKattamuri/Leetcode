@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3830-find-closest-person](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |
