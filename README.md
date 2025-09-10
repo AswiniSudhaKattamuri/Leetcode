@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [3790-fruits-into-baskets-ii](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0264-ugly-number-ii) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 ## Stack
