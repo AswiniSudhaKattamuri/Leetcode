@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0264-ugly-number-ii) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0058-length-of-last-word) |
 | [0394-decode-string](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
