@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0264-ugly-number-ii) |
 | [1217-relative-sort-array](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1217-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1217-relative-sort-array](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1217-relative-sort-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
