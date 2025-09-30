@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3790-fruits-into-baskets-ii](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3830-find-closest-person](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
