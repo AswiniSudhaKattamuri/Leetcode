@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3336-water-bottles-ii](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3830-find-closest-person](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
