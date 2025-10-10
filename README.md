@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3790-fruits-into-baskets-ii](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 <!---LeetCode Topics End-->
