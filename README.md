@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3790-fruits-into-baskets-ii](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## String
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Stack
 |  |
 | ------- |
