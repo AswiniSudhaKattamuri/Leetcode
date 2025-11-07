@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1217-relative-sort-array](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1217-relative-sort-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
