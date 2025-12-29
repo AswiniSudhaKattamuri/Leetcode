@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting Sort
