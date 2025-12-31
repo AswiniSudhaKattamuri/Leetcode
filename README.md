@@ -229,4 +229,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/AswiniSudhaKattamuri/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
